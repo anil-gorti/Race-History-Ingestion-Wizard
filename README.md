@@ -1,4 +1,4 @@
-# Race History Ingestion Wizard
+# WONE — Race History Ingestion Wizard
 
 A multi-step onboarding wizard that helps athletes build a verified race history for their PRFM (Personal Race & Fitness Manager) profile. The wizard intelligently collects past race data through multiple ingestion methods — Gmail scanning, Strava sync, manual entry, and bulk upload — and assigns a credibility score to each result.
 
